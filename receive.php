@@ -82,5 +82,5 @@ $params = "UDID=".$UDID."&CHALLENGE=".$CHALLENGE."&DEVICE_NAME=".$DEVICE_NAME."&
 
 //header("Location: http://dev.skyfox.org/udid?data=".rawurlencode($params));
 header('HTTP/1.1 301 Moved Permanently');
-header("Location: http://ios.udid.local.com/index.php?".$params);
+header("Location: http://ios_udid.yangxiushan.top/index.php?".$params);
 ?>
