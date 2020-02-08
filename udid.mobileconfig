@@ -22,7 +22,7 @@
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
-        <string>9eaf7576-9dbf-4523-98a7-9bdd3edb51d5</string>
+        <string>9eaf7576-9dbf-4523-98a7-9bdd3edb51d6</string>
         <key>PayloadIdentifier</key>
         <string>dev.skyfox.profile-service</string>
         <key>PayloadDescription</key>
