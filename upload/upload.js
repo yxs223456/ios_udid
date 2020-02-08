@@ -1,7 +1,7 @@
 
 accessid= 'LTAI4FbtiykKc8gKarrYUVuG';
 accesskey= 'oVJiOKZpX9mOxmFLIT0otP1ofIOi1l';
-host = 'http://yxs191202.oss-cn-beijing.aliyuncs.com';
+host = 'https://yxs191202.oss-cn-beijing.aliyuncs.com';
 
 g_dirname = ''
 g_object_name = ''
