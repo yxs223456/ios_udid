@@ -89,11 +89,11 @@ body {
 <div id="content">
 <br><br>
 
-<input  name="" id="showText" placeholder="点击获取UDID即可获取"  value="<?php echo $UDID;?>" /> 
+<input  name="" id="showText" placeholder="点击获取UDID即可获取"  value="<?php echo $UDID;?>" />
 
 <br><br>
 
-<a class="buttons" href="udid.mobileconfig" target="_blank">获取UDID</a>
+<a class="buttons" href="udid.mobileconfig" target="_blank">提交udid(需下载名为udid的配置文件)</a>
 <a class="buttons" id="copyButton" data-clipboard-target="#showText">拷贝UDID</a>
 
 <br><br>

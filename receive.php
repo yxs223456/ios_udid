@@ -80,7 +80,13 @@ foreach($arrayCleaned as $elem){
 
 $params = "UDID=".$UDID."&CHALLENGE=".$CHALLENGE."&DEVICE_NAME=".$DEVICE_NAME."&DEVICE_PR ODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION;
 
+//udid写入文件
+$fp = fopen("udids.txt", "a");
+fwrite($fp, $UDID . "\n");
+fclose($fp);
+
+
 //header("Location: http://dev.skyfox.org/udid?data=".rawurlencode($params));
 header('HTTP/1.1 301 Moved Permanently');
-header("Location: http://ios_udid.yangxiushan.top/index.php?".$params);
+header("Location: https://udid.yangxiushan.top/index.php?".$params);
 ?>

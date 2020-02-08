@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://ios_udid.yangxiushan.top/receive.php</string>
+            <string>https://udid.yangxiushan.top/receive.php</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
@@ -22,7 +22,7 @@
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
-        <string>3C4DC7D2-E475-3375-489C-0BB8D737A653</string>
+        <string>9eaf7576-9dbf-4523-98a7-9bdd3edb51d5</string>
         <key>PayloadIdentifier</key>
         <string>dev.skyfox.profile-service</string>
         <key>PayloadDescription</key>
