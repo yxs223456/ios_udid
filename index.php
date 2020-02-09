@@ -93,8 +93,8 @@ body {
 
 <br><br>
 
-<a class="buttons" href="udid.mobileconfig" target="_blank">提交udid(需下载名为udid的配置文件)</a>
-<a class="buttons" id="copyButton" data-clipboard-target="#showText">拷贝UDID</a>
+<a class="buttons" href="udid.mobileconfig" target="_blank">发送udid(需下载安装名为udid的配置文件)</a>
+<!--    <a class="buttons" id="copyButton" data-clipboard-target="#showText">拷贝UDID</a>-->
 
 <br><br>
 
