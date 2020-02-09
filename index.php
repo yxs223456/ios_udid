@@ -89,7 +89,7 @@ body {
 <div id="content">
 <br><br>
 
-<input  name="" id="showText" placeholder="点击获取UDID即可获取"  value="<?php echo $UDID;?>" />
+<input  name="" id="showText" placeholder=""  value="<?php echo $UDID;?>" />
 
 <br><br>
 
