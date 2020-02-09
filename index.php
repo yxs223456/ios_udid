@@ -103,8 +103,6 @@ body {
 <!-- <a class="buttons" href="xxapp://?function=valid&uuid=<?php echo $UDID;?>&secret=dhasdjh5521673hghdsah">2.验证ipa</a> -->
 
 <br>
-
-<img src="qr.png" width ="200">
 	
 </div>
 <div id="footer">
