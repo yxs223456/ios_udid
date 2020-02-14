@@ -25,7 +25,7 @@
 //    }
 //}
 
-$isignPath = "/www/isign/isign";
+$isignPath = "/usr/bin/isign";
 $iosUdidPath = "/www/ios_udid/sign/";
 $pemPath = "/root/.isign/";
 
